@@ -1,3 +1,3 @@
 # test_git
 
-This is a test repository for playing around with git.  
+Here's an additional line that's not related to this project.  
